@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ruslan-bekshenev/telegram-bot.git",
+  "author": "Ruslan Bekshenev <rbekshenev23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
